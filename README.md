@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JanNing012500
 - 👀 Check out CardsCoinsCollectables.com
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : JanNingPersonal@gmail.com
 
 <!---
 JanNing012500/JanNing012500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
