@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JanNing012500
-- 👀 Check out CardsCoinsCollectables.com
+
 - 📫 How to reach me : JanNingPersonal@gmail.com
 
 <!---
