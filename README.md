@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JanNing012500
-
+- 👋 Hi, I’m Jan
 - 📫 How to reach me : JanNingPersonal@gmail.com
 
 <!---
