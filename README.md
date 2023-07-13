@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jan, UX/UI Designer & Game Developer
+- 👋 Hi, I’m Jan, Aspiring UX/UI Designer & Game Developer
 - 📫 Email : JanNingPersonal@gmail.com
 - 🎮 Portfolio : [Jan-Ning.me](https://jan-ning.me/)
 <!---
